@@ -1,0 +1,3 @@
+# */5 * * * * /home/ubuntu/twitter_scheduler_project/tweet.sh >> /home/ubuntu/twitter_scheduler_project/logs/tweet.log 2>&1
+
+*/5 * * * * /home/ubuntu/twitter_scheduler_project/tweet.sh
