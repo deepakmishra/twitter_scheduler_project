@@ -46,6 +46,7 @@ This project is not as per standard because I made this project for a marketing 
 12. **COPY** 
     - ***Access Token***
     - ***Access Token Secret***
+13. Get **elevated access** from Twitter
 
 ---
 ## For Twitter User: Update Twitter API Credentials and Tweet Post
